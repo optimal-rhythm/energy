@@ -1,0 +1,1 @@
+python /app/predict_model.py
